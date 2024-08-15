@@ -13,8 +13,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Nadia Alessandra Lucas Coronel - u202120430
- * @version 1.0
+ * This class represents the User entity
  */
 
 @Getter

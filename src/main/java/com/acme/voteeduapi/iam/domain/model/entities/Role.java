@@ -11,8 +11,6 @@ import java.util.List;
 
 /**
  * This class represents a role entity.
- * @author Nadia Alessandra Lucas Coronel - u202120430
- * @version 1.0
  */
 
 @Entity
